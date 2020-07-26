@@ -1,12 +1,18 @@
 #!/usr/bin/python3
+#
 # Remilia "Nikki" Grimm
+# grimm.remilia@gmail.com
+# https://remilia-grimm.github.io
+# CS1210: Computer Science Fundamentals
 #
-# Based on the project by
-# Alberto Maria Segre
-# University of Iowa
+# Lecturing Professor:
+# Dr. Alberto Maria Segre
+# of the University of Iowa
+###############################################
 #
-# Currently cleaning up this project/re-coding
-#
+# Currently putting this old project back
+# together from my notes and re-coding
+###############################################
 from random import random, randint, sample
 import matplotlib.pyplot as plt
 
